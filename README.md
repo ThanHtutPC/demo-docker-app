@@ -1,5 +1,5 @@
-# demo-docker-app
-simple profile card with docker 
+## demo-docker-app
+simple application project
 
 
 ```Command
